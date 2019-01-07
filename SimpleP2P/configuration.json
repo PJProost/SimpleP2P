@@ -1,0 +1,9 @@
+﻿{
+  "_IsMaster": true,
+  "Masteraddress": "192.168.1.18",
+  "_Masterport": "1337",
+  "_Listenaddress": "192.168.1.18",
+  "_Listenport": "1339",
+  "_Identifier": "Node name",
+  "_HandshakeInterval": 1
+}
